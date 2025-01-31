@@ -1,0 +1,20 @@
+.tree {
+  list-style-type: none;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  width: 20px;
+  min-width: 20px;
+  display: flex;
+  cursor: pointer;
+}
+
+.list {
+  list-style-type: none;
+  margin-left: 20px;
+}
